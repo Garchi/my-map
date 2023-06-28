@@ -760,17 +760,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":6,
          "firstgid":2956,
-         "image":"..\/workadventure-map-starter-kit\/tilesets\/WA_logos_La_Salle.png",
-         "imageheight":192,
-         "imagewidth":192,
-         "margin":0,
-         "name":"WA_Logos_La_Salle",
-         "spacing":0,
-         "tilecount":36,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"..\/..\/WA_Logos_La_Salle.tsx"
         }],
  "tilewidth":32,
  "type":"map",
